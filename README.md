@@ -1,4 +1,5 @@
-# ETL Project - Evaluating the relationship between google trends, oil price and automotive industry performance and its stock market - GM, Ford and Tesla  
+# ETL Project  
+**Evaluating the relationship between google trends, oil price and automotive industry performance and its stock market - GM, Ford and Tesla**
 
 The purpose of this project is to investigate if there is a correlation between human interests by comparing keywords from Google trends with stock prices of the automotive industry, and what essential words can impact on stock performance, car sales, and volume. Traditional and electric car companies namly GM, Ford and Tesla are chosen for the data collection stage. 
 
